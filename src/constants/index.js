@@ -208,7 +208,7 @@ const testimonials = [
     name: "Bruce",
     mentions: "@2BruceWong",
     review:
-      "Working with Abhishek was a fantastic experience. He transformed our outdated AWS Redhsift Console into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
+      "Working with Abhishek was a fantastic experience. He transformed our outdated AWS Redshift Console into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
     imgPath: "/images/client3.png",
   },
 ];

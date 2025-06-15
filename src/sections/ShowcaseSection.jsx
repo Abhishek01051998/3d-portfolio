@@ -73,6 +73,29 @@ const AppShowcase = () => {
               </div>
               <h2>The Library Management Platform</h2>
             </div>
+            <div className="project" ref={libraryRef}>
+              <div className="image-wrapper bg-[#FFEFDB]">
+                <a href="https://whatsapp-blond.vercel.app/">
+                <img
+                  src="/images/whatsapp.png"
+                  alt="Chat App"
+                />
+                </a>
+              </div>
+              <h2>Whatsapp Clone</h2>
+            </div>
+                        <div className="project" ref={libraryRef}>
+              <div className="image-wrapper bg-[#FFEFDB]">
+                <a href="https://github.com/Abhishek01051998/Blackjack">
+                <img
+                  src="/images/blk.png"
+                  alt="Chat App"
+                />
+                </a>
+              </div>
+              <h2> BlackJack  Game</h2>
+            </div>
+
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
